@@ -1,0 +1,64 @@
+{
+ "label": "INT8-perclass-512x288",
+ "images": 100,
+ "board_conf_floor": 0.001,
+ "recall_conf": 0.25,
+ "classes": {
+  "car": {
+   "AP50_fp32": 0.24270084340177794,
+   "AP50_int8": 0.17370406321985407,
+   "recall_fp32": 0.32610939112487103,
+   "recall_int8": 0.3240454076367389,
+   "precision_fp32": 0.7860696517412935,
+   "precision_int8": 0.650103519668737
+  },
+  "truck": {
+   "AP50_fp32": 0.1648875893701502,
+   "AP50_int8": 0.1326586181438692,
+   "recall_fp32": 0.2702702702702703,
+   "recall_int8": 0.2702702702702703,
+   "precision_fp32": 0.3125,
+   "precision_int8": 0.3448275862068966
+  },
+  "bus": {
+   "AP50_fp32": 0.3415841584158416,
+   "AP50_int8": 0.23267926792679267,
+   "recall_fp32": 0.4,
+   "recall_int8": 0.5,
+   "precision_fp32": 0.4444444444444444,
+   "precision_int8": 0.4166666666666667
+  },
+  "person": {
+   "AP50_fp32": 0.14548503896220794,
+   "AP50_int8": 0.07739523284486151,
+   "recall_fp32": 0.17518248175182483,
+   "recall_int8": 0.1678832116788321,
+   "precision_fp32": 0.8571428571428571,
+   "precision_int8": 0.575
+  },
+  "motorcycle": {
+   "AP50_fp32": 0.019009900990099013,
+   "AP50_int8": 0.005280528052805281,
+   "recall_fp32": 0.0,
+   "recall_int8": 0.0,
+   "precision_fp32": 0.0,
+   "precision_int8": 0.0
+  },
+  "bicycle": {
+   "AP50_fp32": 0.0,
+   "AP50_int8": 0.0,
+   "recall_fp32": 0.0,
+   "recall_int8": 0.0,
+   "precision_fp32": 0.0,
+   "precision_int8": 0.0
+  },
+  "traffic light": {
+   "AP50_fp32": 0.018335914436519583,
+   "AP50_int8": 0.006123893534711992,
+   "recall_fp32": 0.038869257950530034,
+   "recall_int8": 0.024734982332155476,
+   "precision_fp32": 0.4583333333333333,
+   "precision_int8": 0.2413793103448276
+  }
+ }
+}
