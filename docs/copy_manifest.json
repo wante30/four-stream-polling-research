@@ -1,49 +1,49 @@
 [
   {
     "archive_path": "docs/source_reports/multistream_budget.md",
-    "source_path": "C:\\Users\\JingyuWang\\adas-edge\\docs\\competition_multistream_budget.md",
+    "source_path": "<ADAS_EDGE_ROOT>/docs/competition_multistream_budget.md",
     "sha256": "E64C1362D168A6140513D550400F4810D2CE4F1CFA5F389708E6E5931A4E91D9",
     "bytes": 3521
   },
   {
     "archive_path": "data/mot17/oracle_kill_test_strategy_metrics.csv",
-    "source_path": "C:\\Users\\JingyuWang\\adas-edge\\benchmarks\\mot17_e2_board\\oracle_kill_test_final\\strategy_metrics.csv",
+    "source_path": "<MOT17_BENCHMARK_ROOT>/oracle_kill_test_final/strategy_metrics.csv",
     "sha256": "ADCF189D6EB0CAB723650B86309C9E101B567EC9AD8DA616D1321D866C355A9C",
     "bytes": 5640
   },
   {
     "archive_path": "src/multistream_framework/scheduler.py",
-    "source_path": "C:\\Users\\JingyuWang\\adas-edge\\multistream_framework\\scheduler.py",
+    "source_path": "<ADAS_EDGE_ROOT>/multistream_framework/scheduler.py",
     "sha256": "405DD5D14B87CEEBA96C62D9CBEEDC37E0132B757FE93051720BCCAF01E45EE1",
     "bytes": 7228
   },
   {
     "archive_path": "docs/source_reports/heterogeneous_multistream.md",
-    "source_path": "C:\\Users\\JingyuWang\\adas-edge\\docs\\competition_heterogeneous_multistream.md",
+    "source_path": "<ADAS_EDGE_ROOT>/docs/competition_heterogeneous_multistream.md",
     "sha256": "21ECD32455417FD6E483CECF3295A64D288E54F0DD04373C6AEEDFDB4CBBD739",
     "bytes": 13097
   },
   {
     "archive_path": "src/multistream_framework/replay.py",
-    "source_path": "C:\\Users\\JingyuWang\\adas-edge\\multistream_framework\\replay.py",
+    "source_path": "<ADAS_EDGE_ROOT>/multistream_framework/replay.py",
     "sha256": "57CFD3F6014DAFFDA6DEA1F1DD47170ECB0E1EDBDE1BCDA0B21863CBF9D7D0D9",
     "bytes": 11172
   },
   {
     "archive_path": "src/multistream_framework/hetero_replay.py",
-    "source_path": "C:\\Users\\JingyuWang\\adas-edge\\multistream_framework\\hetero_replay.py",
+    "source_path": "<ADAS_EDGE_ROOT>/multistream_framework/hetero_replay.py",
     "sha256": "B3D0F46E741299501A0EEA3ED3DDAEFE119AB15E4A1345A064BA66290661EB7E",
     "bytes": 20667
   },
   {
     "archive_path": "docs/source_reports/rectangular_rk3566_benchmark.md",
-    "source_path": "C:\\Users\\JingyuWang\\adas-edge\\docs\\competition_rectangular_rk3566_benchmark.md",
+    "source_path": "<ADAS_EDGE_ROOT>/docs/competition_rectangular_rk3566_benchmark.md",
     "sha256": "E6BEA02332C7CD27CBA4DE7C262921AE7049B048F8A95C8C8907AC3D1EA51777",
     "bytes": 8165
   },
   {
     "archive_path": "data/phase10/LONG20-summary.json",
-    "source_path": "D:\\Datasets\\adas_edge_training\\phase10\\LONG20-summary.json",
+    "source_path": "<PHASE10_RESULTS_ROOT>/LONG20-summary.json",
     "sha256": "5FA8375066EBA931EE6A280B44E376CF295BF9ADDCBE77F71AE5909F21F22F0E",
     "bytes": 2748
   }

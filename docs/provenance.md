@@ -2,17 +2,15 @@
 
 This repository was assembled from the local workspace on 2026-10-12.
 
-Primary source project:
-
-`C:\Users\JingyuWang\adas-edge`
+Primary source project: `<ADAS_EDGE_ROOT>`
 
 Board result source directory:
 
-`D:\Datasets\adas_edge_training\phase10`
+`<PHASE10_RESULTS_ROOT>`
 
 MOT17/RKNN result source directory:
 
-`C:\Users\JingyuWang\adas-edge\benchmarks\mot17_e2_board`
+`<MOT17_BENCHMARK_ROOT>`
 
 The copied source reports retain their original experiment dates and hardware
 descriptions. The compact JSON/CSV files under `data/` are copies of local
